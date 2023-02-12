@@ -1,4 +1,4 @@
-# Diabetic Retinopathy Detection
+# Code Clause : Blindness Detection
 
 
 ![retina](https://user-images.githubusercontent.com/30235603/104626729-83b9b100-5696-11eb-9908-776c7a862507.png)
